@@ -41,8 +41,8 @@ def Gradientdes(x,y, m,c, alpha,iters):
 #------------------------------------------------------------
 
 
-#Import the txt file
-datas = pd.read_csv(r'C:\Users\NADY\Desktop\datas1.txt', header = None , names=['Xdata','Ydata'] )
+#Import the Dataset file. A txt file
+datas = pd.read_csv(r'C:\Users\NADY\Desktop\datas1.txt', header = None , names=['Xdata','Ydata'] ) #Write your path here
 
 # Define the variables Y_pred = mx + x
 #I set it to Zero because it heard that it would be better, I do not know what will happen if I cahnged it how this affect
