@@ -28,7 +28,7 @@ def Gradientdes(x,y, m,c, alpha,iters):
         pred = m*x + c 
 
         D_m = ( -2 / len(x) ) *  np.sum(  np.multiply(x, (y-pred) )  ) #I used multiply here to do the Element-wise or Hadarmad product
-        D_c = ( -2 / len(x) ) *  np.sum(   y.T-pred.T ) 
+        D_c = ( -2 / len(x) ) *  np.sum(   y-pred ) 
         
         c = c - (alpha*D_c)
         m = m - (alpha*D_m)
