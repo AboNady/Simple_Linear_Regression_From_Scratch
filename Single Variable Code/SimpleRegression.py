@@ -1,4 +1,4 @@
-#Please refer to the README File for the full formulas and explinaton
+#Please refer to the README File for the full formulas and explanation
 
 import time #To Calculate the execution time
 import numpy as np #To deal with Math
