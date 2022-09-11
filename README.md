@@ -9,8 +9,8 @@
 
 <br/>
 <div align="center">
-  <a href="https://i.imgur.com/uSRVsmx.png">
-    <img src="https://i.imgur.com/uSRVsmx.png" alt="Logo" width="620" height="320">
+  <a href="https://i.imgur.com/b8suQcK.png">
+    <img src="https://i.imgur.com/b8suQcK.png" alt="Logo" width="860" height="444">
   </a>
 
 <br/>
@@ -32,10 +32,9 @@
 
 * I implemented here an algorithm from scratch to find the best fit line of a list of point[x,y]. I have applied 2 different datasets I found online, I draw the graphs of each one of them 2 graphs for each, on for the dataset with the fit line. and the second for the epochs and error, so you can understand how the error work and when it is not recommended to increase the iterations (as it will be waste of resources). So, as you see in the errors graphs almost the slope is Zero (There is no change in values).
 
-* When you change your dataet and change the number of iterations and alpha value you might find the output as NaN or an Overflow Error. To solve this, multiply the dataset by 0.01 for example (This depends on the dataset), but this may solve the problem.
+* When you change your dataset and change the number of iterations and alpha value you might find the output as NaN or an Overflow Error. To solve this, multiply the dataset by 0.01 for example (This depends on the dataset), but this may solve the problem.
 
-* For all the equation I used, why it is like this? How could you derive them also? Please check the Refrencess.
-
+* For all the equation I used, why it is like this? How could you derive them also? Please check the References.
 
 <br/>
 
