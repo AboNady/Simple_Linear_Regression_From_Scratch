@@ -83,7 +83,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 *  This is important [Article](https://www.analyticsvidhya.com/blog/2021/04/gradient-descent-in-linear-regression/), as it illustrates how to deal the partial dervatives.
 
-*  I recommend this book because it shows you an [Example using Python](https://www.geeksforgeeks.org/gradient-descent-in-linear-regression/)
+*  I recommend this article because it shows you an [Example using Python](https://www.geeksforgeeks.org/gradient-descent-in-linear-regression/)
 
 
 ## Contacts
